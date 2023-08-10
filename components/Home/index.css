@@ -1,0 +1,21 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 100vh;
+}
+.container {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 70vh;
+  width: 70vw;
+  font-family: 'Roboto';
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+}
